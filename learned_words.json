@@ -1,0 +1,26 @@
+{
+    "learned_categories": {
+        "Work": {
+            "zoom": 3,
+            "jira": 1
+        },
+        "Study": {
+            "homework": 5,
+            "lecture": 2
+        },
+        "Home": {
+            "kitchen": 2,
+            "milk": 7,
+            "sugar": 1
+        },
+        "Health": {
+            "protein": 1
+        },
+        "Fun": {
+            "concert": 4
+        }
+    },
+    "settings": {
+        "threshold": 5
+    }
+}
