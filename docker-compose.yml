@@ -1,9 +1,0 @@
-services:
-  taskmanager:
-    build: .
-    container_name: my-taskmanager
-    stdin_open: true
-    tty: true
-    volumes:
-      - ./TaskManager.json:/app/TaskManager.json
-      - ./learned_words.json:/app/learned_words.json
